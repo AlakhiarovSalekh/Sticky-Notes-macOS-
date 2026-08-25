@@ -1,0 +1,75 @@
+# ─── macOS ───────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# ─── Swift Package Manager ───────────────────────────────────────────────────
+.build/
+.swiftpm/
+Packages/
+# Note: Package.resolved is intentionally NOT ignored — committing it locks
+# dependency versions for reproducible builds. (None today, but kept honest.)
+
+# ─── Xcode (user-specific; project/workspace files are generated, not tracked) ─
+DerivedData/
+build/
+*.xcodeproj
+*.xcworkspace
+!default.xcworkspace
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.perspectivev3
+!default.perspectivev3
+
+# ─── Build & release artifacts ───────────────────────────────────────────────
+*.app
+*.dSYM
+*.dSYM.zip
+*.ipa
+*.dmg
+*.pkg
+*.zip
+
+# ─── Coverage & profiling ────────────────────────────────────────────────────
+*.xcresult
+*.profraw
+*.profdata
+*.gcno
+*.gcda
+
+# ─── Dependency managers (unused here, ignored defensively) ──────────────────
+Pods/
+Carthage/Build/
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# ─── Editors / IDEs ──────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.netrwhist
+*.tmp
