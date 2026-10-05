@@ -127,6 +127,8 @@ AppKit owns the windows; SwiftUI is the view layer inside each note.
 Issues and PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Adding a new OS
 theme is a one-`case` change in `ThemeStyle.swift`.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [Habit Tracker](https://github.com/AlakhiarovSalekh/Habit-Tracker) — Swift/UIKit habit-tracking app.
