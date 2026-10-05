@@ -1,4 +1,4 @@
-# Sticky Notes (macOS)
+# Sticky Notes for macOS — Swift, AppKit & SwiftUI
 
 [![Stars](https://img.shields.io/github/stars/AlakhiarovSalekh/Sticky-Notes-macOS-?style=social)](https://github.com/AlakhiarovSalekh/Sticky-Notes-macOS-/stargazers)
 
