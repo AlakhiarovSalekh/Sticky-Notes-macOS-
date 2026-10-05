@@ -1,5 +1,7 @@
 # Sticky Notes (macOS)
 
+[![Stars](https://img.shields.io/github/stars/AlakhiarovSalekh/Sticky-Notes-macOS-?style=social)](https://github.com/AlakhiarovSalekh/Sticky-Notes-macOS-/stargazers)
+
 ![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-blue)
 ![Swift](https://img.shields.io/badge/Swift-5.9%2B-orange)
 
@@ -7,6 +9,10 @@ Sticky notes that float on your desktop — a native macOS take on the classic
 **Windows 7 Sticky Notes**, with **8 OS-inspired themes** (Windows 7 → 11,
 Ubuntu, classic & modern macOS). Built in Swift: AppKit-first, with SwiftUI
 inside each note. No Apple Developer account, notarization, or sandbox required.
+
+## Why Sticky Notes?
+
+A small native utility for people who want persistent desktop notes without accounts, cloud sync, telemetry, or a heavy framework stack. It combines AppKit window control with SwiftUI note content and keeps data locally on the Mac.
 
 ## Features
 
@@ -120,3 +126,7 @@ AppKit owns the windows; SwiftUI is the view layer inside each note.
 
 Issues and PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Adding a new OS
 theme is a one-`case` change in `ThemeStyle.swift`.
+
+## Author
+
+**Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
